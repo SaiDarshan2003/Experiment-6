@@ -40,7 +40,7 @@ public class Member {
         System.out.println("The Salary of this employee is: " + sal);
     }
 }
-public class temp {
+public class Solution {
     public static void main(String[] args) {
         Employee emp1 = new Employee();
         Manager emp2 = new Manager();
